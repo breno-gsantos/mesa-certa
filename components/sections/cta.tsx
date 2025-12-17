@@ -19,7 +19,7 @@ export function CTA(){
                             <div>
                                 <h2 className="text-3xl font-bold mb-4 text-balance">Tem um restaurante? Junte-se a nós!</h2>
                                 <p className="text-lg text-primary-foreground/90 mb-6 leading-relaxed">Aumente sua visibilidade e gerencie reservas de forma eficiente com nossa plataforma completa.</p>
-                                <Link href='/admin/saiba-mais'>
+                                <Link href='/saiba-mais'>
                                     <Button size='lg' variant='secondary'>Saiba Mais</Button>
                                 </Link>
                             </div>
